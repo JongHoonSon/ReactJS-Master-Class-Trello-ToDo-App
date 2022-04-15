@@ -58,5 +58,5 @@
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.24"
   },
-  "homepage": "https://JongHoonSon.github.io/ReactJS-Master-Class"
+  "homepage": "https://JongHoonSon.github.io/ReactJS-Master-Class-Trello-ToDo-App"
 }
